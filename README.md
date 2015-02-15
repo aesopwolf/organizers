@@ -109,5 +109,5 @@ You can [use this .AI/.SVG template](https://github.com/nodeschool/nodeschool.gi
 - chapters get their own website
 - chapters can start quantifying their membership
 - chapters can get pinged using `@nodeschool/<teamname>`
-- since all chapter members are [open open source](https://github.com/rvagg/node-leveldown#contributing) style contributors it means everyone gets empowered to help moderate discussions and improve the chapter website
+- since all chapter members are [open source](https://github.com/rvagg/node-leveldown#contributing) style contributors it means everyone gets empowered to help moderate discussions and improve the chapter website
 - we can list all of the chapters on the nodeschool site
